@@ -2,7 +2,6 @@
 
 ### A passionate developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=XinHui04" alt="XinHui04" /></a> </p>
 
 - 🔭 I'm currently working on **Final Year Project**
 
